@@ -1,0 +1,22 @@
+{
+  "name": "stranger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "node-opus": "0.3.0",
+    "npm": "^6.4.1",
+    "request": "2.81.0",
+    "snekfetch": "^4.0.4"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "description": ""
+}
